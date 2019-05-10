@@ -1,4 +1,4 @@
-
+// Autores: Eduardo Poletti e Galdino da Silveira Neto
 import java.util.ArrayList;
 
 public class Statistics {
